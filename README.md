@@ -1,6 +1,8 @@
 # taxgraph
 This repository contains the code for building the knowledge graph TaxGraph. For more information on TaxGraph
-see [taxgraph.informatik.uni-mannheim.de](http://taxgraph.informatik.uni-mannheim.de/)
+see [taxgraph.informatik.uni-mannheim.de](http://taxgraph.informatik.uni-mannheim.de/).
+
+A dump of the knowledge graph can be downloaded [here](https://zenodo.org/record/3946462).
 
 ## Building the knowledge graph
 Five path variables have to be specified in `createRDF.py` before running the file to build the knowledge graph.
