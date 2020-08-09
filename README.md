@@ -19,6 +19,7 @@ The code expects the file to be in CSV format. Our knowledge graph was build wit
 
 `path_wikidata_cities`: This path points to a CSV file containing combinations of wikidata entity ID, postal code and label.
 A compressed version of the file that we used can be found under `data/wikidataCityData/wikidata_cities.csv.gz`.
+The file can be decompressed by running `gzip -dk wikidata_cities.csv.gz`.
 
 `path_additonal_data`: This path points to a file containing additional data retrieved from the
 [World Bank](https://data.worldbank.org/), the [OECD](https://stats.oecd.org/) and [Wikidata](https://www.wikidata.org/). This
