@@ -2,7 +2,7 @@
 This repository contains the code for building the knowledge graph TaxGraph. For more information on TaxGraph
 see [taxgraph.informatik.uni-mannheim.de](http://taxgraph.informatik.uni-mannheim.de/).
 
-Paper: [A Knowledge Graph for Assessing Agressive Tax Planning Strategies](https://arxiv.org/abs/2008.05239)
+Paper: [A Knowledge Graph for Assessing Aggressive Tax Planning Strategies](https://arxiv.org/abs/2008.05239)
 
 A dump of the knowledge graph can be downloaded [here](https://zenodo.org/record/3946462).
 
